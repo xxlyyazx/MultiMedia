@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/X-video">
+    <file alias="qmldir">/root/QML-training/X-video/build/Desktop_Qt_6_7_1-Debug/X-video/qmldir</file>
+  </qresource>
+</RCC>
+

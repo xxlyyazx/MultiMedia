@@ -1,0 +1,7 @@
+module X-video
+typeinfo appX-video.qmltypes
+prefer :/qt/qml/X-video/
+Window 1.0 Window.qml
+Actions 1.0 Actions.qml
+Contents 1.0 Contents.qml
+
