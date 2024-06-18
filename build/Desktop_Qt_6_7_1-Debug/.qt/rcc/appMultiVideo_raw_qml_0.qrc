@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="/qt/qml/MultiVideo/">
+    <file alias="Window.qml">/root/QML-training/MultiVideo/Window.qml</file>
+    <file alias="Actions.qml">/root/QML-training/MultiVideo/Actions.qml</file>
+    <file alias="Contents.qml">/root/QML-training/MultiVideo/Contents.qml</file>
+    <file alias="Dialogs.qml">/root/QML-training/MultiVideo/Dialogs.qml</file>
+    <file alias="video.js">/root/QML-training/MultiVideo/video.js</file>
+  </qresource>
+</RCC>
+

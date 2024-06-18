@@ -1,0 +1,8 @@
+module MultiVideo
+typeinfo appMultiVideo.qmltypes
+prefer :/qt/qml/MultiVideo/
+Window 1.0 Window.qml
+Actions 1.0 Actions.qml
+Contents 1.0 Contents.qml
+Dialogs 1.0 Dialogs.qml
+
